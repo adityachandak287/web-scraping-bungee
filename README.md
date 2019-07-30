@@ -1,6 +1,9 @@
 # Web Scraping using Python
 Script to scrape face adrenalin website and download all relevant images.
 
+![python-3.7.3](https://img.shields.io/badge/python-3.7.3-blue)
+![python-3.7.3](https://img.shields.io/badge/python-3.7.3-brightgreen)
+
 ## Setup
 ### Requirements
 Use the package manager *pip* to install required libraries from "requirements.txt":
